@@ -1,0 +1,15 @@
+{
+	"manifest_version":2,
+	"name":"Covid-19 India Tracker by Abhinav ",
+	"description":"This is a Chrome extension which tracks the COVID-19 cases in India",
+	"version":"1.7",
+	"icons":{
+		"128":"coronavirus128.png",
+		"64":"coronavirus64.png",
+		"16":"coronavirus16.png"
+	},
+	"browser_action":{
+		"default_icon":"coronavirus128.png",
+		"default_popup":"popup.html"
+	}
+}
